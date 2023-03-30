@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: Enhancing the performance of a java-react stack application intern project at Virtusa.<br>👯 I’m looking to collaborate on: Open source projects related to web development.<br>🤝 I’m looking for help with: Learning advanced concepts in React and spring-boot.<br>🌱 I’m currently learning: React Native and GraphQL.<br>💬 Ask me about: My experience in building RESTful APIs, designing scalable architecture for web applications, and my journey in becoming a certified Java associate developer.<br>⚡ Fun fact: I'm a big fan of science fiction movies and books.<br><br>
+🔭 I’m currently working on: Intern project at Virtusa.<br>👯 I’m looking to collaborate on: Open source projects related to web development.<br>🤝 I’m looking for help with: Learning advanced concepts in React and spring-boot.<br>🌱 I’m currently learning: React Native and GraphQL.<br>💬 Ask me about: My experience in building RESTful APIs, designing scalable architecture for web applications, and my journey in becoming a certified Java associate developer.<br>⚡ Fun fact: I'm a big fan of science fiction movies and books.<br><br>
 
 
 ## 🌐 Socials:
