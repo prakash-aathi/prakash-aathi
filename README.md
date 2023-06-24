@@ -1,6 +1,6 @@
 # 💫 About Me:
 <!-- 🔭 I’m currently working on: Intern at Virtusa.<br> -->
-👯 I’m looking to collaborate on: Open source projects related to web development.<br>🤝 I’m looking for help with: Learning advanced concepts in React and spring-boot.<br>🌱 I’m currently learning: React Native and GraphQL.<br>💬 Ask me about: My experience in building RESTful APIs, designing scalable architecture for web applications.<br>⚡ Fun fact: I'm a big fan of science fiction movies !
+👯 I’m looking to collaborate on: Open source projects related to web development.<br>🤝 I’m looking for help with: Learning advanced concepts in React and spring-boot.<br>🌱 I’m currently learning: spring microservices and GraphQL.<br>💬 Ask me about: My experience in building RESTful APIs, designing scalable architecture for web applications.<br>⚡ Fun fact: I'm a big fan of science fiction movies !
 
 
 ## 🌐 Socials:
