@@ -24,6 +24,11 @@
 ![](https://github-contributor-stats.vercel.app/api?username=prakash-aathi&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 
+---
+![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=prakash-aathi&bg_color=ece2f8&color=000000&line=9263d9&point=c45f5f&area=true&hide_border=true)
+---
+
+
   ## 💰 You can Encourage me 
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/prakashA971) 
 
