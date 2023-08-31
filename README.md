@@ -11,7 +11,7 @@
 👯 I’m looking to collaborate on: Open source projects related to web development.<br>🤝 I’m looking for help with: Learning advanced concepts in React and spring-boot.<br>🌱 I’m currently learning: spring microservices and GraphQL.<br>💬 Ask me about: My experience in building RESTful APIs, designing scalable architecture for web applications.
 
 
-## <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> Socials:
+## <img src='asserts/handShake.gif' width="50px" height=50px> Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/smiley_boy_01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prakash971) 
 ---
 [![](https://visitcount.itsvg.in/api?id=prakash-aathi&icon=2&color=3)](https://visitcount.itsvg.in)
